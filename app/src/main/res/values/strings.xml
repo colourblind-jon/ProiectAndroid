@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="c_1">Romania</string>
+    <string name="c_2">Russia</string>
+    <string name="c_3">Canada</string>
+</resources>
